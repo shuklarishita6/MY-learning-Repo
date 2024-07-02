@@ -1,2 +1,3 @@
 # MY-learning-Repo
-My First learning Repository
+My First learning Git Repository
+Author - Rishita Shukla
